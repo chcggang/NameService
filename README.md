@@ -1,2 +1,2 @@
-# nameservice
+# NameService
 smart contract training
